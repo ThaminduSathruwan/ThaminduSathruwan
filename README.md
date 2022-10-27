@@ -4,10 +4,18 @@
   I am Thamindu Sathruwan
 </h1>
 
+<p align="center">
+    <a href="https://www.linkedin.com/in/thamindu-sathruwan/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" width="80" height="80"/>
+    </a>
+</p>
+
+---
+
 ## Tech Stack :computer:
 
 <br>
-<table>
+<table align="center">
 <tbody>
 <tr>
 <td align="center" width="20%">
